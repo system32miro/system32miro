@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**system32miro/system32miro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <pre>
+  ______           _              __  __ _                     _       
+ / _____|         | |            |  \/  (_)                   | |      
+| |     __ _ _ __ | | ___  ___   | \  / |_ _ __ __ _ _ __   __| | __ _ 
+| |    / _` | '_ \| |/ _ \/ __|  | |\/| | | '__/ _` | '_ \ / _` |/ _` |
+| |___| (_| | |_) | | (_) \__ \  | |  | | | | | (_| | | | | (_| | (_| |
+ \_____\__,_| .__/|_|\___/|___/  |_|  |_|_|_|  \__,_|_| |_|\__,_|\__,_|
+            | |                                                        
+            |_|                                                        
+   ___          _              ___    _                           _             
+  / __\___   __| | ___ _ __   /___\__(_)_ __  _ __   _____   __ _| |_ ___  _ __ 
+ / /  / _ \ / _` |/ _ \ '__| //  //\\ \ | '_ \| '_ \ / _ \ \ / _` | __/ _ \| '__|
+/ /__| (_) | (_| |  __/ |   / \_//  \/ | | | | | | | (_) \ \ (_| | || (_) | |   
+\____/\___/ \__,_|\___|_|   \___/\____/|_| |_|_| |_|\___/ \_\__,_|\__\___/|_|   
+  </pre>
+</div>
