@@ -1,149 +1,94 @@
 <div align="center">
   <pre>
-  ______           _              __  __ _                     _       
- / _____|         | |            |  \/  (_)                   | |      
-| |     __ _ _ __ | | ___  ___   | \  / |_ _ __ __ _ _ __   __| | __ _ 
-| |    / _` | '_ \| |/ _ \/ __|  | |\/| | | '__/ _` | '_ \ / _` |/ _` |
-| |___| (_| | |_) | | (_) \__ \  | |  | | | | | (_| | | | | (_| | (_| |
- \_____\__,_| .__/|_|\___/|___/  |_|  |_|_|_|  \__,_|_| |_|\__,_|\__,_|
-            | |                                                        
-            |_|                                                        
-   ___          _              ___    _                           _             
-  / __\___   __| | ___ _ __   /___\__(_)_ __  _ __   _____   __ _| |_ ___  _ __ 
- / /  / _ \ / _` |/ _ \ '__| //  //\\ \ | '_ \| '_ \ / _ \ \ / _` | __/ _ \| '__|
-/ /__| (_) | (_| |  __/ |   / \_//  \/ | | | | | | | (_) \ \ (_| | || (_) | |   
-\____/\___/ \__,_|\___|_|   \___/\____/|_| |_|_| |_|\___/ \_\__,_|\__\___/|_|   
+   ______           _              __  __ _                     _       
+  / _____|         | |            |  \/  (_)                   | |      
+ | |     __ _ _ __ | | ___  ___   | \  / |_ _ __ __ _ _ __   __| | __ _ 
+ | |    / _` | '_ \| |/ _ \/ __|  | |\/| | | '__/ _` | '_ \ / _` |/ _` |
+ | |___| (_| | |_) | | (_) \__ \  | |  | | | | | (_| | | | | (_| | (_| |
+  \_____\__,_| .__/|_|\___/|___/  |_|  |_|_|_|  \__,_|_| |_|\__,_|\__,_|
+             | |                                                        
+             |_|                                                        
+  _____          _                       __   _____ _          _____         _     _   _       _                    
+ |  ___|        | |                     / _| |_   _| |        |_   _|       | |   | | | |     (_)                   
+ | |____  ___ __| | ___  _ __ ___ _ __ | |_    | | | |__   ___  | | ___  ___| |__ | | | |_ __  ___   _____ _ __ ___ 
+ |  __\ \/ / '_ ` |/ _ \| '__/ _ \ '_ \|  _|   | | | '_ \ / _ \ | |/ _ \/ __| '_ \| | | | '_ \| \ \ / / _ \ '__/ __|
+ | |___>  <| |_) | | (_) | | |  __/ | | | |    | | | | | |  __/ | |  __/ (__| | | | |_| | | | | |\ V /  __/ |  \__ \
+ \____/_/\_\ .__/|_|\___/|_|  \___|_| |_|_|    \_/ |_| |_|\___| \_/\___|\___|_| |_|\___/|_| |_|_| \_/ \___|_|  |___/
+           | |                                                                                                       
+           |_|                                                                                                       
   </pre>
 </div>
 
-<h1 align="center">👨‍💻 Bem-vindo ao meu Laboratório Digital! 🚀</h1>
+<h1 align="center">Welcome to my Digital Laboratory! 🚀</h1>
 
 <p align="center">
-  <em>Onde código encontra inovação e as ideias ganham vida!</em>
+  <em>Where code meets innovation and ideas come to life!</em>
 </p>
 
 <div align="center">
   
-  🎓 Estudante de CET em Programação de Sistemas de Informação
+  🎓 CET Student in Information Systems Programming
   
-  🇵🇹 Explorando o mundo digital em Portugal
+  🇵🇹 Exploring the digital world in Portugal
   
-  💡 Apaixonado por desenvolvimento web, mobile e startups
+  💡 Passionate about web development, mobile, and startups
   
-  🌱 Sempre aprendendo, sempre crescendo, sempre codando!
+  🌱 Always learning, always growing, always coding!
   
 </div>
 
 ---
 
-## 🛠️ Arsenal de Habilidades
+## 🛠️ Skill Arsenal
 
-<pre>
-JavaScript  [██████████████████████░░] 90%
-Python      [███████████████████░░░░░] 80%
-React       [████████████████░░░░░░░░] 70%
-Node.js     [██████████████░░░░░░░░░░] 60%
-HTML/CSS    [████████████████████░░░░] 85%
-</pre>
-
----
-
-## 🌟 Projetos em Destaque
-
-<div style="display: flex; justify-content: space-around;">
-  <div class="project-card">
-    <div class="card-inner">
-      <div class="card-front">
-        <h3>🚀 LaunchPad</h3>
-      </div>
-      <div class="card-back">
-        <p>Plataforma para conectar startups e investidores</p>
-      </div>
-    </div>
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1;">
+    <h3>Programming Languages</h3>
+    <pre>
+TypeScript  [████████████░░░░░░░░░░] 60%
+Python      [████████████████░░░░░░] 80%
+HTML/CSS    [██████████████░░░░░░░░] 69%
+JavaScript  [██████░░░░░░░░░░░░░░░░] 33%
+    </pre>
   </div>
-
-  <div class="project-card">
-    <div class="card-inner">
-      <div class="card-front">
-        <h3>🧠 CodeMentor AI</h3>
-      </div>
-      <div class="card-back">
-        <p>IA que auxilia programadores iniciantes</p>
-      </div>
-    </div>
+  
+  <div style="flex: 1;">
+    <h3>Tools</h3>
+    <ul>
+      <li>React</li>
+      <li>Node</li>
+      <li>VS Code</li>
+      <li>Claude</li>
+      <li>Vercel</li>
+      <li>Cursor</li>
+      <li>Gmail</li>
+    </ul>
   </div>
-
-  <div class="project-card">
-    <div class="card-inner">
-      <div class="card-front">
-        <h3>🌐 EcoTrack</h3>
-      </div>
-      <div class="card-back">
-        <p>App para monitoramento de pegada de carbono</p>
-      </div>
-    </div>
+  
+  <div style="flex: 1;">
+    <h3>Superpowers</h3>
+    🔮 Telepathic Debugging<br>
+    🚀 Quantum Compilation<br>
+    🧠 Cerebral Cache Memory<br>
+    ☕ Coffee-Code Transfusion<br>
+    🐛 Bug Whisperer<br>
   </div>
 </div>
 
-<style>
-  .project-card {
-    perspective: 1000px;
-    width: 200px;
-    height: 100px;
-  }
-  .card-inner {
-    width: 100%;
-    height: 100%;
-    transition: transform 0.6s;
-    transform-style: preserve-3d;
-  }
-  .project-card:hover .card-inner {
-    transform: rotateY(180deg);
-  }
-  .card-front, .card-back {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    backface-visibility: hidden;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: 1px solid #ddd;
-    border-radius: 10px;
-  }
-  .card-back {
-    transform: rotateY(180deg);
-    background-color: #f0f0f0;
-  }
-</style>
-
 ---
 
-## ⏰ Horário de Codificação
+## 💡 Startup Ideas
 
-| Hora | Segunda | Terça | Quarta | Quinta | Sexta | Sábado | Domingo |
-|:----:|:-------:|:-----:|:------:|:------:|:-----:|:------:|:-------:|
-| 09-12 | 💻 | 💻 | 💻 | 💻 | 💻 | 😴 | 😴 |
-| 13-17 | 💻 | 💻 | 💻 | 💻 | 💻 | 🚀 | 🚀 |
-| 18-22 | 🚀 | 🚀 | 🚀 | 🚀 | 🚀 | 💻 | 💻 |
-| 23-03 | 💡 | 💡 | 💡 | 💡 | 🎉 | 🎉 | 💡 |
-
-💻 = Codando  🚀 = Projetos Pessoais  💡 = Ideação  😴 = Descansando  🎉 = Networking
-
----
-
-## 💡 Startup Idea Generator
-
-<div id="startup-idea">Clique para gerar uma ideia de startup!</div>
+<div id="startup-idea">Click to generate a hilarious startup idea!</div>
 
 <script>
-const industries = ['Saúde', 'Educação', 'Finanças', 'Sustentabilidade', 'Entretenimento'];
-const technologies = ['IA', 'Blockchain', 'IoT', 'AR/VR', 'Robótica'];
+const industries = ['Cat Herding', 'Procrastination', 'Meme Economics', 'Nap Engineering', 'Coffee Addiction'];
+const technologies = ['AI-powered', 'Blockchain-based', 'VR-enhanced', 'Quantum-entangled', 'Meme-driven'];
 
 function generateIdea() {
   const industry = industries[Math.floor(Math.random() * industries.length)];
   const tech = technologies[Math.floor(Math.random() * technologies.length)];
-  return `Uma startup de ${industry} utilizando ${tech}`;
+  return `A ${tech} startup for ${industry}`;
 }
 
 document.getElementById('startup-idea').addEventListener('click', function() {
@@ -153,51 +98,34 @@ document.getElementById('startup-idea').addEventListener('click', function() {
 
 ---
 
-## 📊 Contribuições
+## 🤝 Connect with Me
 
 <div align="center">
-  
-🌱🌱🌱🌱🌱<br>
-🌱🌱🌱🌱🌱<br>
-🌳🌳🌳🌳🌳<br>
-🌳🌳🌳🌳🌳<br>
-🌳🌳🌴🌴🌴<br>
-
-Cada 🌱 = 10 contribuições<br>
-Cada 🌳 = 50 contribuições<br>
-Cada 🌴 = 100 contribuições
-</div>
-
----
-
-## 🤝 Conecte-se Comigo
-
-<div align="center">
-  <a href="https://github.com/seu-username" target="_blank">
+  <a href="https://github.com/your-username" target="_blank">
     <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMGMtNi42MjYgMC0xMiA1LjM3My0xMiAxMiAwIDUuMzAyIDMuNDM4IDkuOCA4LjIwNyAxMS4zODcuNTk5LjExMS43OTMtLjI2MS43OTMtLjU3N3YtMi4yMzRjLTMuMzM4LjcyNi00LjAzMy0xLjQxNi00LjAzMy0xLjQxNi0uNTQ2LTEuMzg3LTEuMzMzLTEuNzU2LTEuMzMzLTEuNzU2LTEuMDg5LS43NDUuMDgzLS43MjkuMDgzLS43MjkgMS4yMDUuMDg0IDEuODM5IDEuMjM3IDEuODM5IDEuMjM3IDEuMDcgMS44MzQgMi44MDcgMS4zMDQgMy40OTIuOTk3LjEwNy0uNzc1LjQxOC0xLjMwNS43NjItMS42MDQtMi42NjUtLjMwNS01LjQ2Ny0xLjMzNC01LjQ2Ny01LjkzMSAwLTEuMzExLjQ2OS0yLjM4MSAxLjIzNi0zLjIyMS0uMTI0LS4zMDMtLjUzNS0xLjUyNC4xMTctMy4xNzYgMCAwIDEuMDA4LS4zMjIgMy4zMDEgMS4yMy45NTctLjI2NiAxLjk4My0uMzk5IDMuMDAzLS40MDQgMS4wMi4wMDUgMi4wNDcuMTM4IDMuMDA2LjQwNCAyLjI5MS0xLjU1MiAzLjI5Ny0xLjIzIDMuMjk3LTEuMjMuNjUzIDEuNjUzLjI0MiAyLjg3NC4xMTggMy4xNzYuNzcuODQgMS4yMzUgMS45MTEgMS4yMzUgMy4yMjEgMCA0LjYwOS0yLjgwNyA1LjYyNC01LjQ3OSA1LjkyMS40My4zNzIuODIzIDEuMTAyLjgyMyAyLjIyMnYzLjI5M2MwIC4zMTkuMTkyLjY5NC44MDEuNTc2IDQuNzY1LTEuNTg5IDguMTk5LTYuMDg2IDguMTk5LTExLjM4NiAwLTYuNjI3LTUuMzczLTEyLTEyLTEyeiIvPjwvc3ZnPg==" alt="GitHub" height="30" width="30">
   </a>
-  <a href="https://linkedin.com/in/seu-username" target="_blank">
+  <a href="https://linkedin.com/in/your-username" target="_blank">
     <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTkgMGgtMTRjLTIuNzYxIDAtNSAyLjIzOS01IDV2MTRjMCAyLjc2MSAyLjIzOSA1IDUgNWgxNGMyLjc2MiAwIDUtMi4yMzkgNS01di0xNGMwLTIuNzYxLTIuMjM4LTUtNS01em0tMTEgMTloLTN2LTExaDN2MTF6bS0xLjUtMTIuMjY4Yy0uOTY2IDAtMS43NS0uNzktMS43NS0xLjc2NHMuNzg0LTEuNzY0IDEuNzUtMS43NjQgMS43NS43OSAxLjc1IDEuNzY0LS43ODMgMS43NjQtMS43NSAxLjc2NHptMTMuNSAxMi4yNjhoLTN2LTUuNjA0YzAtMy4zNjgtNC0zLjExMy00IDB2NS42MDRoLTN2LTExaDN2MS43NjVjMS4zOTYtMi41ODYgNy0yLjc3NyA3IDIuNDc2djYuNzU5eiIvPjwvc3ZnPg==" alt="LinkedIn" height="30" width="30">
   </a>
-  <a href="https://twitter.com/seu-username" target="_blank">
+  <a href="https://twitter.com/your-username" target="_blank">
     <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMjQgNC41NTdjLS44ODMuMzkyLTEuODMyLjY1Ni0yLjgyOC43NzUgMS4wMTctLjYwOSAxLjc5OC0xLjU3NCAyLjE2NS0yLjcyNC0uOTUxLjU2NC0yLjAwNS45NzQtMy4xMjcgMS4xOTUtLjg5Ny0uOTU3LTIuMTc4LTEuNTU1LTMuNTk0LTEuNTU1LTMuMTc5IDAtNS41MTUgMi45NjYtNC43OTcgNi4wNDUtNC4wOTEtLjIwNS03LjcxOS0yLjE2NS0xMC4xNDgtNS4xNDQtMS4yOSAyLjIxMy0uNjY5IDUuMTA4IDEuNTIzIDYuNTc0LS44MDYtLjAyNi0xLjU2Ni0uMjQ3LTIuMjI5LS42MTYtLjA1NCAyLjI4MSAxLjU4MSA0LjQxNSAzLjk0OSA0Ljg5LS42OTMuMTg4LTEuNDUyLjIzMi0yLjIyNC4wODQuNjI2IDEuOTU2IDIuNDQ0IDMuMzc5IDQuNiAzLjQxOS0yLjA3IDEuNjIzLTQuNjc4IDIuMzQ4LTcuMjkgMi4wNCAyLjE3OSAxLjM5NyA0Ljc2OCAyLjIxMiA3LjU0OCAyLjIxMiA5LjE0MiAwIDE0LjMwNy03LjcyMSAxMy45OTUtMTQuNjQ2Ljk2Mi0uNjk1IDEuNzk3LTEuNTYyIDIuNDU3LTIuNTQ5eiIvPjwvc3ZnPg==" alt="Twitter" height="30" width="30">
   </a>
 </div>
 
 ---
 
-## 💭 Pensamento do Dia
+## 💭 Thought of the Day
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+imaginação+é+mais+importante;que+o+conhecimento.;O+conhecimento+é+limitado,;enquanto+a+imaginação;abraça+o+mundo+inteiro.;-+Albert+Einstein&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Life+is+short,+use+Python;404:+Motivation+not+found;Bugs+are+just+unplanned+features;Sleep+is+for+those+without+deadlines;10+%2B+10+/+2+%3D+%3F&center=true&width=380&height=50">
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/seu-username/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="Visitor Count" />
   
-  <sub>Você é o visitante número [NÚMERO_ACIMA]. Obrigado por passar por aqui! 😊</sub>
+  <sub>You are visitor number [NUMBER_ABOVE]. Thanks for stopping by! 😊</sub>
   
   <sub><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">🎁</a></sub>
 </div>
