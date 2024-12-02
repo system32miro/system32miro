@@ -51,15 +51,11 @@ SQL         [██████████████░░░░░░░░]
   <div style="flex: 1;">
     <h3>Tools</h3>
     <ul>
-      <li>React</li>
       <li>FastAPI</li>
       <li>VS Code</li>
       <li>Pandas</li>
       <li>LangChain</li>
       <li>Groq</li>
-      <li>Llama</li>
-      <li>Next.js</li>
-      <li>Supabase</li>
       <li>SQL Server</li>
     </ul>
   </div>
