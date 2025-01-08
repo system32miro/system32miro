@@ -19,17 +19,15 @@
   </pre>
 </div>
 
-<h1 align="center">🚀 Welcome to my Digital Laboratory!</h1>
+<h1 align="center"> Welcome to my Digital Laboratory!</h1>
 
 <div align="center">
+    
+  Building tech solutions in Portugal with a passion for startups and innovation
   
-  🎓 CET Student in Information Systems Programming, focusing on Python and SQL
+  Enthusiastic about web development, mobile solutions, and AI-powered tools
   
-  🇵🇹 Building tech solutions in Portugal with a passion for startups and innovation
-  
-  💡 Enthusiastic about web development, mobile solutions, and AI-powered tools
-  
-  🌱 Always learning, always growing, always coding!
+  Always learning, always growing, always coding!
   
 </div>
 
@@ -41,22 +39,30 @@
   <div style="flex: 1;">
     <h3>Programming Languages</h3>
     <pre>
-Python      [████████████████░░░░░░] 80%
-TypeScript  [████████░░░░░░░░░░░░░░] 40%
-Tailwind CSS [██████░░░░░░░░░░░░░░░] 30%
-SQL         [██████████████░░░░░░░░] 70%
+Python      [████████████████]
+SQL         [████████████████]
     </pre>
   </div>
   
   <div style="flex: 1;">
     <h3>Tools</h3>
     <ul>
-      <li>FastAPI</li>
-      <li>VS Code</li>
-      <li>Pandas</li>
-      <li>LangChain</li>
-      <li>Groq</li>
-      <li>SQL Server</li>
+     <li>Flask</li>
+<li>FastAPI</li>
+<li>SQLAlchemy</li>
+<li>Pandas</li>
+<li>Django</li>
+<li>pytest</li>
+<li>Celery</li>
+<li>Jupyter Notebooks</li>
+<li>Seaborn</li>
+<li>Numpy</li>
+<li>TensorFlow</li>
+<li>PyTorch</li>
+<li>SQLite</li>
+<li>PostgreSQL</li>
+<li>MySQL</li>
+<li>Docker</li>
     </ul>
   </div>
   
